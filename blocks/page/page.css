@@ -1,6 +1,6 @@
 .page {
     background: #2A2C2F;
-    max-width: 3000px;
+    max-width: 100%;
     min-width: 320px;
     font-family: 'Inter', Arial, sans-serif;
     -moz-osx-font-smoothing: grayscale;
